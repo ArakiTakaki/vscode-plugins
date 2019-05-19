@@ -23,7 +23,10 @@
   "bugs": {
     "url": "https://github.com/ArakiTakaki/vscode-plugins/issues"
   },
-  "dependencies": {
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "generator-code": "^1.1.50",
+    "typescript": "^3.4.5",
     "yo": "^2.0.6"
   }
 }
