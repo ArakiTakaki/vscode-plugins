@@ -1,0 +1,29 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "ArakiTakaki <araki_takaki@yahoo.co.jp>",
+  "homepage": "https://github.com/ArakiTakaki/vscode-plugins#readme",
+  "license": "ISC",
+  "main": "lib/example.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArakiTakaki/vscode-plugins.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ArakiTakaki/vscode-plugins/issues"
+  },
+  "dependencies": {
+    "yo": "^2.0.6"
+  }
+}
